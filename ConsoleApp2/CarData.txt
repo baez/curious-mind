@@ -1,9 +1,0 @@
-Audi A5 6500 
-BMW X1 1000 
-BMW X3 2000 
-Jeep J1 560 
-Mercedes L150 5500 
-Audi A4 3000 
-BMW X2 1100 
-Jeep J3 760 
-Mercedes E200 7000 
